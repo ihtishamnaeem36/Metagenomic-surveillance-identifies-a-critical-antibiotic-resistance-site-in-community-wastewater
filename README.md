@@ -1,6 +1,5 @@
 # Hospital-level Antimicrobial Resistance in Metagenomic Wastewater Surveillance
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
 
 This repository contains all code and analysis scripts for the study:
 
@@ -12,7 +11,7 @@ Ishaq Khan¹*, Ihtisham Naeem¹, Shujait Ali¹, Mahnoor Gulbin², Arshad Iqbal¹
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
@@ -25,7 +24,7 @@ Ishaq Khan¹*, Ihtisham Naeem¹, Shujait Ali¹, Mahnoor Gulbin², Arshad Iqbal¹
 
 ---
 
-## 🔬 Overview
+##  Overview
 
 This study reveals hospital-level antimicrobial resistance (AMR) profiles in untreated community wastewater from Mardan District, Pakistan. Using shotgun metagenomic sequencing, we identified:
 
@@ -69,7 +68,7 @@ mardan-wastewater-amr/
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 
@@ -112,7 +111,7 @@ Required Python packages:
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### 1. Domain-Level Composition Analysis
 
@@ -178,15 +177,7 @@ jupyter notebook scripts/04_complete_pipeline.ipynb
 
 ---
 
-## 📊 Data Availability
-
-### Raw Sequencing Data
-
-Raw FASTQ files are deposited in the NCBI Sequence Read Archive (SRA):
-- **BioProject**: PRJNA[XXXXXX]
-- **Accessions**: 
-  - MCW1: SRR[XXXXXXX]
-  - MCW2: SRR[XXXXXXX]
+##  
 
 ### Processed Data
 
@@ -259,17 +250,25 @@ If you encounter any problems or have questions:
 ## 👥 Contact
 
 **Principal Investigator**:  
-Ishaq Khan, PhD  
+Ishaq Khan, PhD 
 Center for Biotechnology & Microbiology  
 University of Swat, Pakistan  
 📧 ishaq@uswat.edu.pk
 
+**student researcher**
+Ihtisham Naeem
+Center for Biotechnology & Microbiology  
+University of Swat, Pakistan  
+ihtishamnaeem36@gmail.com
+
+
+
 **For technical questions about the code**:  
-Please open an issue on GitHub
+Please open an issue on GitHub 
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Funding: [Grant information]
 - BioinCloud platform for metagenomic analysis
@@ -278,7 +277,7 @@ Please open an issue on GitHub
 
 ---
 
-## 📈 Project Status
+## Project Status
 
 - ✅ Data collection completed
 - ✅ Analysis completed
