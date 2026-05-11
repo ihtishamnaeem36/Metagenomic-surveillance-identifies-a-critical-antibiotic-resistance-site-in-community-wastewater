@@ -180,37 +180,10 @@ archived on Zenodo (DOI: 10.5281/zenodo.XXXXXX).
 
 ---
 
-## 🆘 Troubleshooting
 
-### Problem: Files too large for GitHub
-**Solution**: Use Git LFS or upload to Zenodo separately
 
-### Problem: Forgot to add LICENSE
-**Solution**: Add it later via "Add file" → "Create new file" → name it `LICENSE`
 
-### Problem: Need to update after submission
-**Solution**: 
-1. Make changes
-2. Create new release (v1.0.1)
-3. Update manuscript if needed (usually not required)
 
----
-
-## 📧 Need Help?
-
-- GitHub documentation: https://docs.github.com
-- Zenodo help: https://help.zenodo.org
-- Email me: ishaq@uswat.edu.pk
-
----
-
-## ⏱️ Estimated Time
-
-- Creating repository: **5 minutes**
-- Uploading files: **10 minutes**
-- Creating release: **5 minutes**
-- Getting Zenodo DOI: **10 minutes**
-- **Total: ~30 minutes**
 
 ---
 
