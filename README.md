@@ -3,7 +3,7 @@
 
 This repository contains all code and analysis scripts for the study:
 
-**"Hospital-level antimicrobial resistance in metagenomic wastewater surveillance"**  
+**"Metagenomic surveillance identifies a critical antibiotic resistance site in community wastewater"**  
 Ishaq Khan¹*, Ihtisham Naeem¹, Shujait Ali¹, Mahnoor Gulbin², Arshad Iqbal¹, Muhammad Shafiq³
 
 ¹Center for Biotechnology & Microbiology (CBM), University of Swat, Charbagh 19120, Pakistan  
@@ -270,20 +270,10 @@ Please open an issue on GitHub
 
 ##  Acknowledgments
 
-- Funding: [Grant information]
+- Funding: This study was supported by the National Natural Science Foundation of China for International Young Scientists (Grant No. 42150410383) and the SUMC Scientific Research Initiation Grant (SRIG) (Grant No. 009-510858073).
 - BioinCloud platform for metagenomic analysis
 - NCBI, CARD, SILVA, and rrnDB databases
 - WHO Priority Pathogens List 2024
-
----
-
-## Project Status
-
-- ✅ Data collection completed
-- ✅ Analysis completed
-- ✅ Manuscript submitted
-- ⏳ Under review
-- ⏳ Code release v1.0
 
 ---
 
@@ -296,7 +286,7 @@ Please open an issue on GitHub
 
 ---
 
-**Last Updated**: February 2026  
+**Last Updated**: May 11, 2026. 
 **Version**: 1.0.0
 
 ---
@@ -315,7 +305,7 @@ Please open an issue on GitHub
 
 3. **Reproducibility**:
    - All random seeds are set for reproducibility
-   - Software versions specified in `environment.yml`
+   - Software versions specified in `environment.yml` and in supplementary file 
    - Analysis timestamps included in outputs
 
 ---
