@@ -1,15 +1,15 @@
-# 🚀 QUICK START GUIDE: Setting Up Your GitHub Repository
+#  QUICK START GUIDE: Setting Up Your GitHub Repository
 
 ## Step-by-Step Instructions
 
-### 1️⃣ Create GitHub Account (if needed)
+### 1 Create GitHub Account (if needed)
 - Go to https://github.com
 - Sign up for free account
 - Verify email address
 
 ---
 
-### 2️⃣ Create New Repository
+### 2 Create New Repository
 
 1. Click **"New"** button (green, top right)
 2. **Repository name**: `mardan-wastewater-amr` (or your choice)
@@ -18,14 +18,14 @@
    Code and analysis scripts for metagenomic surveillance of antimicrobial 
    resistance in community wastewater from Mardan District, Pakistan
    ```
-4. **Public** ✅ (Must be public for journal requirements)
-5. ✅ Add README file
+4. **Public**  (Must be public for journal requirements)
+5.  Add README file
 6. Choose license: **MIT License**
 7. Click **"Create repository"**
 
 ---
 
-### 3️⃣ Upload Files to GitHub
+### 3 Upload Files to GitHub
 
 #### Option A: Using GitHub Web Interface (Easiest)
 
@@ -78,7 +78,7 @@ git push -u origin main
 
 ---
 
-### 5️⃣ Get Zenodo DOI
+### 5 Get Zenodo DOI
 
 1. Go to https://zenodo.org
 2. Click **"Log in"** → Sign in with GitHub
