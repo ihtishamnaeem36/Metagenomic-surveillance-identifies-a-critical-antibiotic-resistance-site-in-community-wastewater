@@ -1,7 +1,7 @@
-# Hospital-level Antimicrobial Resistance in Metagenomic Wastewater Surveillance
+# Metagenomic surveillance identifies a critical antibiotic resistance site in community wastewater
 
 
-This repository contains all code and analysis scripts for the study:
+This repository contains code and analysis scripts for the study:
 
 **"Metagenomic surveillance identifies a critical antibiotic resistance site in community wastewater"**  
 Ishaq Khan¹*, Ihtisham Naeem¹, Shujait Ali¹, Mahnoor Gulbin², Arshad Iqbal¹, Muhammad Shafiq³
@@ -37,7 +37,7 @@ This study reveals hospital-level antimicrobial resistance (AMR) profiles in unt
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 mardan-wastewater-amr/
